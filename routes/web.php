@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomePageController;
+use App\Http\Controllers\WeatherController;
 
 /*
 |--------------------------------------------------------------------------
@@ -19,4 +20,4 @@ use App\Http\Controllers\HomePageController;
 // });
 
 Route::get("/", [HomePageController::class,"index"])->name("home");
-Route::post("/weatherDataPost/{city}", [HomePageController::class,"weatherData"])->name("weather");
+Route::post("/weather", [WeatherController::class,"weatherData"])->name("weather.report");
