@@ -35,6 +35,7 @@
                 <option class="mb20" value="toronto">Toronto, Canada</option>
                 <option class="mb20" value="amsterdam">Amsterdam, Netherland</option>
                 <option class="mb20" value="moscow">Moscow, Russia</option>
+                <option class="mb20" value="osaka">Osaka, Japan</option>
 
                 </select>
             </div>
