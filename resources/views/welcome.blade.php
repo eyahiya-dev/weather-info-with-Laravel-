@@ -32,7 +32,10 @@
                 <option class="mb20" value="paris">Paris, Franch</option>
                 <option class="mb20" value="zurich">Zurich, Switzerland</option>
                 <option class="mb20" value="addis ababa">Addis Ababa, Ethiopia</option>
-                <option class="mb20" value="Toronto">Toronto, Canada</option>
+                <option class="mb20" value="toronto">Toronto, Canada</option>
+                <option class="mb20" value="amsterdam">Amsterdam, Netherland</option>
+                <option class="mb20" value="moscow">Moscow, Russia</option>
+
                 </select>
             </div>
             <button type="submit" class="w-full text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Weather Info</button>
