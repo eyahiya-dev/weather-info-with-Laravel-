@@ -19,5 +19,8 @@ use App\Http\Controllers\WeatherController;
 //     return view('welcome');
 // });
 
+// welcom (home) blacde route
 Route::get("/", [HomePageController::class,"index"])->name("home");
+
+// weather data route
 Route::post("/weather", [WeatherController::class,"weatherData"])->name("weather.report");
