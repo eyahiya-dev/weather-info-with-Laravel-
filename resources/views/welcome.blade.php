@@ -38,6 +38,8 @@
                 <option class="mb20" value="osaka">Osaka, Japan</option>
                 <option class="mb20" value="oymyakon">Oymyakon, Russia</option>
                 <option class="mb20" value="el azizia">Al-Aziziyah, Libya</option>
+                <option class="mb20" value="gaza">Gaza, Palestine</option>
+
 
                 </select>
             </div>
