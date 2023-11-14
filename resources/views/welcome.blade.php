@@ -41,6 +41,7 @@
                 <option class="mb20" value="gaza">Gaza, Palestine</option>
                 <option class="mb20" value="boston">Boston, USA</option>
                 <option class="mb20" value="munich">Munich, Germany</option>
+                <option class="mb20" value="tokyo">Tokyo, Japan</option>
 
 
                 </select>
