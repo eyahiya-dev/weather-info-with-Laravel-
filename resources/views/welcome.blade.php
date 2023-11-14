@@ -39,13 +39,14 @@
                 <option class="mb20" value="oymyakon">Oymyakon, Russia</option>
                 <option class="mb20" value="el azizia">Al-Aziziyah, Libya</option>
                 <option class="mb20" value="gaza">Gaza, Palestine</option>
+                <option class="mb20" value="boston">Boston, USA</option>
 
 
                 </select>
             </div>
             <button type="submit" class="w-full text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800">Weather Info</button>
             <div class="text-xs text-center font-medium text-gray-500 dark:text-gray-300">
-                It's just for learning purpose so i can try to show some cities name;
+              It's just for learning purpose so i can try to show some cities name;
             </div>
         </form>
     </div>
